@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<!-- A test change to see if SCM polling works from Jenkins -->
+		<!-- Another test change to see if SCM polling works from Jenkins -->
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-samples</artifactId>
